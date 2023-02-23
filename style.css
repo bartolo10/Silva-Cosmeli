@@ -1,0 +1,379 @@
+/* 
+Theme Name: silva
+Theme URI: www.silvaandcosmeli.cl
+Description: Sitio web de servicios, construccion y arquitectura
+Version: 1.0
+Author: bastian
+*/
+
+
+
+
+
+.logo a {
+    margin-left: 5%;
+    width: 25%;
+}
+
+.aa {
+    color: aqua;
+}
+.navegador {
+    float: right;
+}
+
+.imagenprincipal {
+   
+ 
+    width: 80%;
+   
+}
+
+.texto h1{
+    color: white;
+    font-family: serif;
+    padding: 5px;
+    font-size: 72px;
+    
+}
+
+.texto p {
+    color: rgb(236, 196, 65);
+    font-size: 24px;
+   
+   
+    
+    font-family: monospace;
+}
+
+
+
+.serviciostitulos {
+    font-size: 42px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(201, 197, 5);
+    margin-left: 8%;
+    
+}
+
+
+.parafo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+.lampara {
+    margin-top: 5%;
+}
+.titulode {
+    margin-left: 38%;
+    color: white;
+    text-decoration: dotted;
+    
+
+}
+
+.colorbody {
+    background-color: rgb(109, 14, 14);
+    
+}
+
+
+
+.quienes {
+    color: white;
+    margin-left: 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.quieness {
+    color: white;
+    margin-left: 20%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.quienes3 {
+    color: white;
+    margin-left: 20%;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.linea-dorada2
+{
+    border-bottom: rgb(226, 185, 21)  solid 5px;
+    width: 15%;
+    margin-bottom: 2% ;
+    margin-left: 38%;
+      
+}
+
+.linea-dorada3
+{
+    border-bottom: rgb(226, 185, 21)  solid 5px;
+    width: 50%;
+    margin-bottom: 2% ;
+    margin-left: 28%;
+      
+}
+.linea-dorada4
+{
+    border-bottom: rgb(226, 185, 21)  solid 5px;
+    width: 25%;
+    margin-bottom: 2% ;
+    margin-left: 37%;
+      
+}
+
+.imagengrandediv img {
+    width: 100%;
+}
+
+.linea-dorada {
+    border-bottom: rgb(226, 185, 21)  solid 5px;
+    width: 25%;
+    margin-bottom: 2% ;
+    margin-left: 40%;
+      
+}
+.linea-dorada5 {
+    border-bottom: rgb(226, 185, 21)  solid 5px;
+    width: 40%;
+    margin-bottom: 2% ;
+    margin-left: 25%;
+      
+}
+
+.somoss {
+    color: white;
+    text-align: center;
+    width: 65%;
+    margin-left: 18%;
+}
+
+
+
+.btn-outline-light {
+    padding: 10px 30px;
+    border-radius: 1px;
+    border-width: 2px;
+    font-size: 25px;
+}
+
+.titulo-card-rojo {
+    color: rgb(73, 7, 7);
+    font-size: 15px;
+    
+}
+.card-body1:hover {
+    background-color: rgb(0, 0, 0);
+color: rgb(73, 7, 7);
+transition-duration: 0.5s;
+transition-property: initial;
+}
+
+.cardin {
+    background-color: rgb(73, 7, 7);
+}
+
+.descripcion {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.titulointe{
+    color: white;
+}
+
+.titulointe2 {
+    color: rgb(187, 187, 26);
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.textod {
+    color: white;
+    font-size: 17px;
+}
+
+.arqui {
+    padding: 5px 5px;
+    background-color: rgb(223, 178, 30);
+}
+
+
+
+.card-body4:hover {
+    background-color: rgb(221, 49, 49);
+    color: white;
+    transition-duration: 0.5s;
+    transition-property: initial;
+    width: 100%;
+    border-width: 12px;
+    transition-duration: 0.5s;
+    transition-property: initial;
+}
+
+
+
+.formulario  {
+    color: aliceblue;
+}
+
+.form {
+    color: aliceblue;
+    width: 50%;
+}
+
+.ubicacion {
+    color: yellow;
+}
+
+.tamanos {
+    margin-top: 10%;
+     color: aliceblue;
+}
+.tamanos2 li {
+   color: aliceblue;
+   margin-left: 28%;
+   font-size: 20px;
+}
+.tamanos2 h2 {
+    color: aliceblue;
+    
+    font-size: 20px;
+ }
+
+.atras {
+    float: right;
+    
+}
+
+.textosdecasa {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white; text-align: center;
+}
+
+.container2 {
+    background-color: #8a1e1e;
+    
+}
+
+
+
+.seccion-roja {
+    height: 300px;
+}
+
+.imagen-seguridad img{
+    width: 90%;
+    height: 90%;
+}
+
+.seccion-roja2 {
+    float: left;
+    margin-bottom: 5%;
+    width: 100%;
+    background-color: black;
+}
+
+.texto-seguridad{
+    margin-left: 10%;
+}
+
+.texto-seguridad h2 {
+    font-size: 35px;
+    color: white;
+    margin-left: 2%;
+    font-family: 'Spartan', sans-serif;
+    margin-top: 14%;
+}
+
+.texto-seguridad p {
+    margin-top: 8%;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.integr {
+    color: white;
+    margin-left: 40%;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+.social {
+    float: right;
+    margin-right: 5%;
+  
+}
+
+.social i{
+padding-left: 10px;
+  color: #757575;
+}
+
+.copyright{
+    color: white;
+}
+
+.darkfooter{
+    background-color: black;
+    background-size: cover;
+}
+
+.paginacion {
+    color: yellow;
+    font-size: 22px;
+    font-family: serif;
+}
+
+
+.custom_logo {
+    width: 100px;
+    height: 100px;
+    
+    margin-left: 50%;
+}
+
+.textosdecas{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.casas img {
+    float: right;
+    width: 80%;
+ 
+}
+
+.textodetitulo h1{
+    font-size: 55px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.textodetitulo h2{
+    font-size: 35px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blanco h5 {
+    color: white;
+}
